@@ -19,6 +19,15 @@
    * 《Practical Data Analysis》(2nd)(中:《实用数据分析》)
    * 《Python Data Analysis》
    * 《Python Data Analytics》(2nd)
+   * 《数据科学实战手册（R+Python）》
+   * 《Pandas 1.X Cookbook》
+   * 《从零开始学Python数据分析与挖掘》
+   * 《Python数据预处理技术与实践》
+   * 《数据科学导论：Python语言实现》
+   * 《Python数据科学导论》
+   * 《利用Python进行数据分析》
+   * 《Python数据分析挖掘与可视化》
+   * 《Python数据分析基于plotly的动态可视化绘图》
    
 
 
